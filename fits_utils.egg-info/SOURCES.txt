@@ -1,0 +1,8 @@
+README.md
+fits_utils.py
+setup.py
+fits_utils.egg-info/PKG-INFO
+fits_utils.egg-info/SOURCES.txt
+fits_utils.egg-info/dependency_links.txt
+fits_utils.egg-info/requires.txt
+fits_utils.egg-info/top_level.txt
