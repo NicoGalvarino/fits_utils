@@ -72,8 +72,7 @@ col_format_all_S17 = {
     'SNR_mean_mgii': np.float64, 
     'SNR_blue_mean_mgii': np.float64, 
     'SNR_green_mean_mgii': np.float64, 
-    'SNR_red_mean_mgii': np.float64, 
-    'subsurvey_id': pd.StringDtype()
+    'SNR_red_mean_mgii': np.float64
     }
 
 col_units = {
