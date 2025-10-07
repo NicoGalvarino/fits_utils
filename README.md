@@ -3,12 +3,18 @@
 Utilities for working with FITS files and pandas DataFrames.
 
 ## Installation
+Clone or download this repository and navigate to its directory on the terminal. Then:
+  * Install:
 
-Install in editable mode for development:
+  ```bash
+  pip install .
+  ```
 
-```bash
-pip install -e .
-```
+  * Or, install in editable mode for development:
+
+  ```bash
+  pip install -e .
+  ```
 
 ## Usage
 
